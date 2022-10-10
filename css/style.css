@@ -1,0 +1,12 @@
+p {
+    color: blue;
+}
+
+h1,
+h3 {
+    background-color: rgb(202, 131, 179);
+}
+
+h1+h3 {
+    color: red;
+}
